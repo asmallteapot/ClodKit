@@ -1,0 +1,16 @@
+[*]
+charset = utf8
+end_of_line = lf
+insert_final_newline = true
+
+[*.{h,m,swift}]
+indent_size = 4
+indent_style = space
+
+[{*.{podspec,rb},Gemfile,Podfile}]
+indent_size = 2
+indent_style = space
+
+[{*.swift]
+indent_size = 4
+indent_style = space
