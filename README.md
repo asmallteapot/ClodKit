@@ -5,7 +5,6 @@
 [![Version](https://img.shields.io/cocoapods/v/ClodKit.svg?style=flat)](http://cocoapods.org/pods/ClodKit)
 [![License](https://img.shields.io/cocoapods/l/ClodKit.svg?style=flat)](http://cocoapods.org/pods/ClodKit)
 [![Platform](https://img.shields.io/cocoapods/p/ClodKit.svg?style=flat)](http://cocoapods.org/pods/ClodKit)
--->
 
 ## Installation
 
@@ -15,6 +14,7 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod "ClodKit"
 ```
+-->
 
 ## Usage
 
